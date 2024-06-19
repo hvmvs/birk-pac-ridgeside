@@ -1,0 +1,277 @@
+{
+   "Format": "1.11.0",
+   	"ConfigSchema": {
+
+	"Color": {
+		"AllowValues": "Black, Cinnamon, Green, Lavender, Mint, Pink, Sky, Yellow",
+		"Default": "Black"
+	},
+
+	"Extras": {
+		"AllowValues": "Empty, Spring, Summer, Fall, Winter",
+		"Default": "Empty"
+		},
+
+
+	},
+
+
+   "Changes": [
+	// YELLOW
+      {
+         "Action": "EditImage",
+         "Target": "Animals/horse",
+         "FromFile": "assets/yellow_empty.png",
+		 "When": { "Color": "Yellow"}
+      },
+      {
+         "Action": "EditImage",
+         "Target": "Animals/horse",
+         "FromFile": "assets/yellow_spring.png",
+		 "When": { "Color": "Yellow", "Extras": "Spring"},
+      },
+      {
+         "Action": "EditImage",
+         "Target": "Animals/horse",
+         "FromFile": "assets/yellow_summer.png",
+		 "When": { "Color": "Yellow", "Extras": "Summer"}
+      },
+      {
+         "Action": "EditImage",
+         "Target": "Animals/horse",
+         "FromFile": "assets/yellow_fall.png",
+		 "When": { "Color": "Yellow", "Extras": "Fall"}
+      },
+      {
+         "Action": "EditImage",
+         "Target": "Animals/horse",
+         "FromFile": "assets/yellow_winter.png",
+		 "When": { "Color": "Yellow", "Extras": "Winter"}
+      },
+
+	// CINNAMON
+      {
+         "Action": "EditImage",
+         "Target": "Animals/horse",
+         "FromFile": "assets/cinnamon_empty.png",
+		 "When": { "Color": "Cinnamon"}
+      },
+      {
+         "Action": "EditImage",
+         "Target": "Animals/horse",
+         "FromFile": "assets/cinnamon_spring.png",
+		 "When": { "Color": "Cinnamon", "Extras": "Spring"}
+      },
+      {
+         "Action": "EditImage",
+         "Target": "Animals/horse",
+         "FromFile": "assets/cinnamon_summer.png",
+		 "When": { "Color": "Cinnamon", "Extras": "Summer"}
+      },
+      {
+         "Action": "EditImage",
+         "Target": "Animals/horse",
+         "FromFile": "assets/cinnamon_fall.png",
+		 "When": { "Color": "Cinnamon", "Extras": "Fall"}
+      },
+      {
+         "Action": "EditImage",
+         "Target": "Animals/horse",
+         "FromFile": "assets/cinnamon_winter.png",
+		 "When": { "Color": "Cinnamon", "Extras": "Winter"}
+      },
+
+	// BLACK
+      {
+         "Action": "EditImage",
+         "Target": "Animals/horse",
+         "FromFile": "assets/black_empty.png",
+		 "When": { "Color": "Black"}
+      },
+      {
+         "Action": "EditImage",
+         "Target": "Animals/horse",
+         "FromFile": "assets/black_spring.png",
+		 "When": { "Color": "Black", "Extras": "Spring"}
+      },
+      {
+         "Action": "EditImage",
+         "Target": "Animals/horse",
+         "FromFile": "assets/black_summer.png",
+		 "When": { "Color": "Black", "Extras": "Summer"}
+      },
+      {
+         "Action": "EditImage",
+         "Target": "Animals/horse",
+         "FromFile": "assets/black_fall.png",
+		 "When": { "Color": "Black", "Extras": "Fall"}
+      },
+      {
+         "Action": "EditImage",
+         "Target": "Animals/horse",
+         "FromFile": "assets/black_winter.png",
+		 "When": { "Color": "Black", "Extras": "Winter"}
+      },
+
+	// GREEN
+      {
+         "Action": "EditImage",
+         "Target": "Animals/horse",
+         "FromFile": "assets/green_empty.png",
+		 "When": { "Color": "Green"}
+      },
+      {
+         "Action": "EditImage",
+         "Target": "Animals/horse",
+         "FromFile": "assets/green_spring.png",
+		 "When": { "Color": "Green", "Extras": "Spring"}
+      },
+      {
+         "Action": "EditImage",
+         "Target": "Animals/horse",
+         "FromFile": "assets/green_summer.png",
+		 "When": { "Color": "Green", "Extras": "Summer"}
+      },
+      {
+         "Action": "EditImage",
+         "Target": "Animals/horse",
+         "FromFile": "assets/green_fall.png",
+		 "When": { "Color": "Green", "Extras": "Fall"}
+      },
+      {
+         "Action": "EditImage",
+         "Target": "Animals/horse",
+         "FromFile": "assets/green_winter.png",
+		 "When": { "Color": "Green", "Extras": "Winter"}
+      },
+
+	// LAVENDER
+      {
+         "Action": "EditImage",
+         "Target": "Animals/horse",
+         "FromFile": "assets/lavender_empty.png",
+		 "When": { "Color": "Lavender"}
+      },
+      {
+         "Action": "EditImage",
+         "Target": "Animals/horse",
+         "FromFile": "assets/lavender_spring.png",
+		 "When": { "Color": "Lavender", "Extras": "Spring"}
+      },
+      {
+         "Action": "EditImage",
+         "Target": "Animals/horse",
+         "FromFile": "assets/lavender_summer.png",
+		 "When": { "Color": "Lavender", "Extras": "Summer"}
+      },
+      {
+         "Action": "EditImage",
+         "Target": "Animals/horse",
+         "FromFile": "assets/lavender_fall.png",
+		 "When": { "Color": "Lavender", "Extras": "Fall"}
+      },
+      {
+         "Action": "EditImage",
+         "Target": "Animals/horse",
+         "FromFile": "assets/lavender_winter.png",
+		 "When": { "Color": "Lavender", "Extras": "Winter"}
+      },
+
+	// MINT
+      {
+         "Action": "EditImage",
+         "Target": "Animals/horse",
+         "FromFile": "assets/mint_empty.png",
+		 "When": { "Color": "Mint"}
+      },
+      {
+         "Action": "EditImage",
+         "Target": "Animals/horse",
+         "FromFile": "assets/mint_spring.png",
+		 "When": { "Color": "Mint", "Extras": "Spring"}
+      },
+      {
+         "Action": "EditImage",
+         "Target": "Animals/horse",
+         "FromFile": "assets/mint_summer.png",
+		 "When": { "Color": "Mint", "Extras": "Summer"}
+      },
+      {
+         "Action": "EditImage",
+         "Target": "Animals/horse",
+         "FromFile": "assets/mint_fall.png",
+		 "When": { "Color": "Mint", "Extras": "Fall"}
+      },
+      {
+         "Action": "EditImage",
+         "Target": "Animals/horse",
+         "FromFile": "assets/mint_winter.png",
+		 "When": { "Color": "Mint", "Extras": "Winter"}
+      },
+
+	// PINK
+      {
+         "Action": "EditImage",
+         "Target": "Animals/horse",
+         "FromFile": "assets/pink_empty.png",
+		 "When": { "Color": "Pink"}
+      },
+      {
+         "Action": "EditImage",
+         "Target": "Animals/horse",
+         "FromFile": "assets/pink_spring.png",
+		 "When": { "Color": "Pink", "Extras": "Spring"}
+      },
+      {
+         "Action": "EditImage",
+         "Target": "Animals/horse",
+         "FromFile": "assets/pink_summer.png",
+		 "When": { "Color": "Pink", "Extras": "Summer"}
+      },
+      {
+         "Action": "EditImage",
+         "Target": "Animals/horse",
+         "FromFile": "assets/pink_fall.png",
+		 "When": { "Color": "Pink", "Extras": "Fall"}
+      },
+      {
+         "Action": "EditImage",
+         "Target": "Animals/horse",
+         "FromFile": "assets/pink_winter.png",
+		 "When": { "Color": "Pink", "Extras": "Winter"}
+      },
+
+	// SKY
+      {
+         "Action": "EditImage",
+         "Target": "Animals/horse",
+         "FromFile": "assets/blue_empty.png",
+		 "When": { "Color": "Sky"}
+      },
+      {
+         "Action": "EditImage",
+         "Target": "Animals/horse",
+         "FromFile": "assets/blue_spring.png",
+		 "When": { "Color": "Sky", "Extras": "Spring"}
+      },
+      {
+         "Action": "EditImage",
+         "Target": "Animals/horse",
+         "FromFile": "assets/blue_summer.png",
+		 "When": { "Color": "Sky", "Extras": "Summer"}
+      },
+      {
+         "Action": "EditImage",
+         "Target": "Animals/horse",
+         "FromFile": "assets/blue_fall.png",
+		 "When": { "Color": "Sky", "Extras": "Fall"}
+      },
+      {
+         "Action": "EditImage",
+         "Target": "Animals/horse",
+         "FromFile": "assets/blue_winter.png",
+		 "When": { "Color": "Sky", "Extras": "Winter"	},
+			
+		}
+	]
+}

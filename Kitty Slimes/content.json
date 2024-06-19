@@ -1,0 +1,13 @@
+{
+	"Format": "2.0.0",
+
+	"Changes": [
+
+		{
+		"Action": "Load",
+		"Target": "Characters/Monsters/Green Slime",
+		"FromFile": "assets/greenslime.png"
+		}
+
+     ]
+}

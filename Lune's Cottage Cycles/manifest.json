@@ -1,0 +1,12 @@
+{
+  "Name": "Lune's Cottage Cycles",
+  "Author": "mushlune",
+  "Version": "1.1",
+  "Description": "Cottage cycle replacement for horses",
+  "UniqueID": "mushlune.CottageCycle",
+  "MinimumApiVersion": "1.0",
+  "UpdateKeys": ["17023"],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  }
+}
